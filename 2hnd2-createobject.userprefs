@@ -2,7 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\rocketshipController.js">
     <Files>
-      <File FileName="Assets\Scripts\rocketshipController.js" Line="34" Column="3" />
+      <File FileName="Assets\Scripts\rocketshipController.js" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\laserController.js" Line="17" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
